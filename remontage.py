@@ -2,6 +2,9 @@
 
 remontage.py
 
+Some of the PIL code stolen from @dting on StackExchange.
+https://stackoverflow.com/questions/30227466/combine-several-images-horizontally-with-python
+
 """
 
 
