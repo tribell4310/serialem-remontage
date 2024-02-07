@@ -9,7 +9,7 @@ This script takes in the `*.st` (image stack) and `*.st.mdoc` (metadata) files p
 
 ## Dependencies
 
-Image processing requires [mrc2tif](https://bio3d.colorado.edu/imod/doc/man/mrc2tif.html).  The data processing scripts require python 3.10 or higher, preferably installed in a dedicated virtual environment. Package dependencies are:
+Image processing requires [mrc2tif](https://bio3d.colorado.edu/imod/doc/man/mrc2tif.html) from the [IMOD software suite](https://bio3d.colorado.edu/imod/).  The data processing scripts require python 3.10 or higher, preferably installed in a dedicated virtual environment. Package dependencies are:
  - numpy
  - pillow
 
