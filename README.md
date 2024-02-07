@@ -2,6 +2,9 @@
 # serialem-remontage
 Reassemble montaged atlases from SerialEM
 
+![image](https://github.com/tribell4310/serialem-remontage/assets/67428134/77ce6934-b07f-41ef-9e39-d3d07e26f121)
+
+
 ## Approach
 
 This script takes in the `*.st` (image stack) and `*.st.mdoc` (metadata) files produced by SerialEM during a grid montaging event.  Place these two files in a working directory along with the `remontage.py` script.
